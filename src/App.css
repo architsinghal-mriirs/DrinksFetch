@@ -1,0 +1,9 @@
+.catCard{
+  height: 50px;
+  width: 50px;
+}
+
+.gallery{
+  display: grid;
+  grid-template-columns: 3 3 3;
+}
